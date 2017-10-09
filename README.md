@@ -1,0 +1,2 @@
+# TeoriaDaInformacao-TrabalhoGA
+TrabalhoGA
