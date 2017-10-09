@@ -1,2 +1,2 @@
-# TeoriaDaInformacao-TrabalhoGA
-TrabalhoGA
+# Teoria da Informacao
+
